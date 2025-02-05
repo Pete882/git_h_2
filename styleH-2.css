@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecera_1 {
+    background-color: #93B5C9;
+    margin: 0vh auto;
+    padding: 50px;
+    width: 50%;
+}
+
+.cabecera_2{
+    background-color: #AB2849;
+    margin: 0vh auto;
+    padding: 50px;
+    height: 70px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.secciones {
+    background-color: #AB2849;
+    padding: 35px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-right: 50px;
+    width: 500px;
+    margin-left: 268px;
+}
+
+.foot_882 {
+    background-color: #AB2849;
+    margin-top: 10px;
+    padding: 20px;
+    width: 680px;
+    margin-right: 250px;
+    margin-left: 280px;
+
+}
